@@ -2,7 +2,7 @@ header {
     text-align: center;
     padding: 45px;
     background-color: #ebebeb;
-    height: 20px;
+    height: 15px;
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
@@ -14,7 +14,7 @@ header {
     text-align: center;
     padding: 45px;
     background-color: #ebebeb;
-    height: 20px;
+    height: 15px;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 1%;
@@ -74,9 +74,9 @@ header {
 .aside {
 
     float: left;
-    margin-top: -47%;
+    margin-top: -47.5%;
     margin-left: 107%;
-    width: 61%;
+    width: 60.5%;
     text-align: center;
     padding: 45px;
     background-color: #ebebeb;
@@ -91,7 +91,7 @@ footer {
     text-align: center;
     padding: 45px;
     background-color: #ebebeb;
-    height: 18px;
+    height: 15px;
     margin-top: 8%;
     margin-right: 10%;
     margin-left: -3%;
